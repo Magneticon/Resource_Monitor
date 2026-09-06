@@ -1,0 +1,11 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\bin\x64\Debug\LegacyGpuMonitor.exe.config
+G:\PROGS\RESMON\Source\bin\x64\Debug\LegacyGpuMonitor.exe.config
+G:\PROGS\RESMON\Source\bin\x64\Debug\Drivers\WinRing0x64.sys
+G:\PROGS\RESMON\Source\bin\x64\Debug\LegacyGpuMonitor.exe
+G:\PROGS\RESMON\Source\bin\x64\Debug\LegacyGpuMonitor.pdb
+G:\PROGS\RESMON\Source\obj\x64\Debug\ResolveAssemblyReference.cache
+G:\PROGS\RESMON\Source\obj\x64\Debug\LegacyGpuMonitor.MainForm.resources
+G:\PROGS\RESMON\Source\obj\x64\Debug\GenerateResource.read.1.tlog
+G:\PROGS\RESMON\Source\obj\x64\Debug\GenerateResource.write.1.tlog
+G:\PROGS\RESMON\Source\obj\x64\Debug\LegacyGpuMonitor.exe
+G:\PROGS\RESMON\Source\obj\x64\Debug\LegacyGpuMonitor.pdb

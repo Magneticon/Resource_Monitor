@@ -1,0 +1,16 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\bin\x64\Release\LegacyGpuMonitor.exe.config
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\bin\x64\Release\Drivers\WinRing0x64.sys
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\bin\x64\Release\LegacyGpuMonitor.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\bin\x64\Release\LegacyGpuMonitor.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\obj\x64\Release\LegacyGpuMonitor.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJCUDA\LegacyGpuMonitor_VS2010_XP64_ClassicXP_v1_9\obj\x64\Release\LegacyGpuMonitor.pdb
+G:\PROGS\RESMON\Source\bin\x64\Release\LegacyGpuMonitor.exe.config
+G:\PROGS\RESMON\Source\bin\x64\Release\LegacyGpuMonitor.exe
+G:\PROGS\RESMON\Source\bin\x64\Release\LegacyGpuMonitor.pdb
+G:\PROGS\RESMON\Source\obj\x64\Release\ResolveAssemblyReference.cache
+G:\PROGS\RESMON\Source\obj\x64\Release\LegacyGpuMonitor.MainForm.resources
+G:\PROGS\RESMON\Source\obj\x64\Release\GenerateResource.read.1.tlog
+G:\PROGS\RESMON\Source\obj\x64\Release\GenerateResource.write.1.tlog
+G:\PROGS\RESMON\Source\obj\x64\Release\LegacyGpuMonitor.exe
+G:\PROGS\RESMON\Source\obj\x64\Release\LegacyGpuMonitor.pdb
