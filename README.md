@@ -9,7 +9,7 @@ AMD/Intel GPUs probably won't be reported. Non-Intel CPUs might not be supported
 But since all these information are available in Windows 10 task manager and I need to have these on my Windows XP machine, I won't put any effort to make it working on Windows 10.
 
 Resource Monitor on Windows XP x64:
-<img width="1000" height="900" alt="RESMON" src="https://github.com/user-attachments/assets/eb07ed23-5374-4d4c-aad5-476274c7f058" />
+<img width="1000" height="900" alt="RES_MON" src="https://github.com/user-attachments/assets/561239e9-f671-44d6-be50-e82346636742" />
 
 Resource Monitor on Windows 10 x64:
 <img width="1920" height="1080" alt="RESMON2" src="https://github.com/user-attachments/assets/a6e1faa4-d4cc-40aa-b37d-d946be0827a4" />
